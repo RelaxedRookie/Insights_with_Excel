@@ -1,4 +1,3 @@
-Home to my evolving collection of beginner-level Excel and Power BI projects, with aspirations for more complexity as I grow in my data analysis journey.
 This is my first project on GitHub.
 This project offers a comprehensive walkthrough of the data analysis process, showcasing the journey from understanding client requirements to generating valuable insights for Vrinda Store's sales data in the year 2022.
 Client's Objective: Vrinda Store sought to gain a deeper understanding of its 2022 sales data, with the aim of enhancing sales strategies for 2023.
